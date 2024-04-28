@@ -1,0 +1,5 @@
+- Graduation Project: Virtual University Networking Structure [JUN 2023] 
+Design network infrastructure containing switches, routers, servers, IP phones, and CCTV systems. -
+The Windows server project implemented many services: 
+ -Active Directory Domain Services -DNS service -DHCP server -WDS server -web server (IIS) 
+ -group policy -hyper v -failover clusters 
